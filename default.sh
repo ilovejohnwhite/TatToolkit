@@ -14,6 +14,10 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/ilovejohnwhite/UncleBillyGoncho"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/wallish77/wlsh_nodes"
+    "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
 
 )
 
@@ -45,6 +49,7 @@ ESRGAN_MODELS=(
 
 CONTROLNET_MODELS=(
     "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_canny-fp16.safetensors"
+    "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main/control_v11p_sd15_lineart_fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_depth-fp16.safetensors"
     "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_depth_fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_hed-fp16.safetensors"

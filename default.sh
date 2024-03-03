@@ -13,6 +13,7 @@ PYTHON_PACKAGES=(
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/ilovejohnwhite/UncleBillyGoncho"
+    "https://github.com/ilovejohnwhite/Img"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/wallish77/wlsh_nodes"
